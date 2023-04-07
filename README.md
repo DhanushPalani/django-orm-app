@@ -65,3 +65,4 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## RESULT
+Thus the ORM project is successfully executed.
